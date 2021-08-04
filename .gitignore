@@ -67,3 +67,8 @@ node_modules/
 
 # Idea
 .idea/
+
+# Emulator
+emulator/
+
+serviceAccount.json
